@@ -265,6 +265,11 @@
         width:100%;
     }
 
+    h1{
+        font-family:'Calligraffitti';
+        color:#000091;
+    }
+    
     h2{
         font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
         font-size: 1.3em;
@@ -440,7 +445,7 @@
 
     .logo{
         width: 20em;
-        padding-top: 5em;
+        padding-top: 3em;
     }
 
     .presentacion1, .presentacion2, .presentacion3{
@@ -581,6 +586,11 @@ una mica de decoracio i ficar els subapartats en vertical*/
         height: 0.5em;
         width: 100%;
    }
+    
+    h1{
+        font-family:'Calligraffitti';
+        color:#000091;
+    }
 
     h2{
         font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -919,7 +929,7 @@ una mica de decoracio i ficar els subapartats en vertical*/
    
     .logo {
         width: 20em;
-        padding-top: 5em;
+        padding-top: 3em;
     }
 
     .presentacion1 {
@@ -1049,6 +1059,11 @@ una mica de decoracio i ficar els subapartats en vertical*/
         width: 100%;
     }
 
+    h1{
+        font-family:'Calligraffitti';
+        color:#000091;
+    }
+    
     h2 {
         font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
         font-size: 1.3em;
